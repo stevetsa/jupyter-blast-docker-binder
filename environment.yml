@@ -1,0 +1,6 @@
+name: binder
+channels:
+  - bioconda
+dependencies:
+  - blast
+  - entrez-direct
