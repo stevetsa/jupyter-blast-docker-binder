@@ -6,7 +6,7 @@
 
 
 
-To run Jupyter Notebook, first click 
+To run Jupyter Notebook, click 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stevetsa/jupyter-blast-docker-binder/master?filepath=notebook.ipynb)  It will take a minute to load the notebook.
 
 Enjoy!
