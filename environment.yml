@@ -1,4 +1,4 @@
-name: binder
+name: binder1
 channels:
   - bioconda
 dependencies:
