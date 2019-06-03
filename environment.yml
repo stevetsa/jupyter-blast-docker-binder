@@ -1,6 +1,6 @@
-name: binder1
+name: binder
 channels:
   - bioconda
 dependencies:
-  - blast
+  - blast:2.9.0
   - entrez-direct
